@@ -3,8 +3,8 @@
 
 <div>
     <a href="https://github.com/BrianRonin"></a>
-    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=BrianRonin&show_icons=true&theme=cobalt&)](https://github.com/anuraghazra/github-readme-stats" alt="">
-    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianRonin&langs_count=16&layout=compact&show_icons=true&theme=cobalt&)](https://github.com/anuraghazra/github-readme-stats" alt="">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=BrianRonin&show_icons=true&theme=cobalt&)](https://github.com/anuraghazra/github-readme-stats" alt="">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianRonin&langs_count=16&layout=compact&show_icons=true&theme=cobalt&)](https://github.com/anuraghazra/github-readme-stats" alt="">
 </div>
  
 
