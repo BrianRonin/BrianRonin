@@ -22,8 +22,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Brian-NodeJs" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Brian-NodeJs" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <a href="https://github.com/BrianRonin/Aprofundando_no_Bootstrap">
+    <img align="center" alt="Brian-NodeJs" width="45"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  </a>
   <img align="center" alt="Brian-NodeJs" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="Brian-NodeJs" width="45"
@@ -40,10 +42,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 </div>
-<hr/>
+<hr />
 
 <div style="margin-top: 20px; text-align: right;">
- <!--- <a align="center" href="https://www.linkedin.com/in/brian-matias-3a5920189/"><img
+  <!--- <a align="center" href="https://www.linkedin.com/in/brian-matias-3a5920189/"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Brian-Linkedin"></a> -->
   <a align="center" href="https://web.whatsapp.com/send?phone=19996558069" target="_blank"><img
