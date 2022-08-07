@@ -16,30 +16,48 @@
 
 
 <div style="display: inline-block;"><br>
-  <img align="center" margin-right="100px" alt="Brian-CSS" width="45" style="margin-left: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" margin-right="40px" alt="Brian-Js" width="45" style="margin-left: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Brian-NodeJs" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <a href="https://github.com/BrianRonin/Aprendendo_CSS">
+    <img align="center" margin-right="100px" alt="Brian-CSS" width="45" style="margin-left: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  </a>
+  <a href="https://github.com/BrianRonin/Aprofundando_no_JavaSript">
+    <img align="center" margin-right="40px" alt="Brian-Js" width="45" style="margin-left: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>
+  <a href="https://github.com/BrianRonin/Agenda">
+    <img align="center" alt="Brian-NodeJs" width="45"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </a>
   <a href="https://github.com/BrianRonin/Aprofundando_no_Bootstrap">
     <img align="center" alt="Brian-NodeJs" width="45"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   </a>
-  <img align="center" alt="Brian-NodeJs" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img align="center" alt="Brian-NodeJs" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Brian-NodeJs" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Brian-NodeJs" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <a href="https://github.com/BrianRonin/Aprendendo_JQuery">
+    <img align="center" alt="Brian-NodeJs" width="45"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+  </a>
+  <a href="https://github.com/BrianRonin/Iniciando_React">
+    <img align="center" alt="Brian-NodeJs" width="45"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  </a>
+  <a href="https://github.com/BrianRonin/Apredendo_a_criar_uma_API_REST">
+    <img align="center" alt="Brian-NodeJs" width="45"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  </a>
+  <a href="https://github.com/BrianRonin/Agenda">
+    <img align="center" alt="Brian-NodeJs" width="45"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  </a>
+
   <img align="center" alt="Brian-NodeJs" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Brian-NodeJs" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Brian-NodeJs" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <a href="https://github.com/BrianRonin/Agenda">
+    <img align="center" alt="Brian-NodeJs" width="45"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  </a>
+
 
 </div>
 <hr />
