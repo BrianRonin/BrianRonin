@@ -2,6 +2,7 @@
 
 
 <div>
+<!--
   <a href="https://github.com/BrianRonin"></a>
   <img height="120em"
     src="https://github-readme-stats.vercel.app/api?username=BrianRonin&show_icons=true&theme=cobalt&)](https://github.com/anuraghazra/github-readme-stats"
@@ -11,6 +12,7 @@
     alt="">
   <a href=""><img width="220px" align="right"
       src="https://media.discordapp.net/attachments/724832747679645757/949580355457908766/profile.gif" alt=""></a>
+-->
 </div>
 
 
