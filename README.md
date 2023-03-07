@@ -18,7 +18,7 @@
 
 
 <div style="display: inline-block;"><br>
-OI :)
+OI
 </div>
 <hr />
 
